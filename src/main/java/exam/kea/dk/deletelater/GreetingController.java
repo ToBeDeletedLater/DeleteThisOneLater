@@ -16,6 +16,7 @@ public class GreetingController {
     }
 
     // added comment
+    // BIRGWE XINNXBWR
     @GetMapping("/")
     public ResponseEntity<Greeting> greeting() {
         Greeting greeting = new Greeting("Hej fra serveren");
