@@ -15,6 +15,7 @@ public class GreetingController {
         this.greetingRepository = greetingRepository;
     }
 
+    // added comment
     @GetMapping("/")
     public ResponseEntity<Greeting> greeting() {
         Greeting greeting = new Greeting("Hej fra serveren");
