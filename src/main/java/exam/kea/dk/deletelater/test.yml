@@ -1,0 +1,17 @@
+# YAML example
+
+person: # person object
+  name: "Martin Poulsen" # double quotes
+  occupation: 'Student' # single quotes
+  age: 33 # int
+  gpa: 3.5 # floating point number
+  fav_number: 1e+10 # exponential
+  male: true # boolean
+  birthday: 1994-02-06 14:33:22 # ISO 8601 - standard for defining dates
+  flaws: null # null value
+  hobbies:
+    - hiking
+    - movies
+    - riding bike
+  movies: ["Star wars", "Star Gate SG-1"]
+

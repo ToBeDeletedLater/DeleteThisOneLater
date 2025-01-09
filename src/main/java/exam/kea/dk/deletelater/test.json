@@ -1,0 +1,19 @@
+{
+  "person": {
+    "name": "Martin Poulsen,",
+    "occupation": "student",
+    "age": 24,
+    "gpa": 3.5,
+    "fav_number": 1e+10,
+    "male": true,
+    "flaws": null,
+    "hobbies": ["test", "test"],
+    "friends": [
+      {
+        "name": "Bob",
+        "Age": 99
+      }
+    ]
+  }
+}
+
